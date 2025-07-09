@@ -5,6 +5,7 @@ The IEEE email lists you should unsubscribe from
 IEEE can be a bit [notorious](https://www.reddit.com/r/ECE/comments/38y14i/ieees_email_conduct_is_a_disgrace_to_professional/) for its email frequency. So, to save you some trouble, I've gathered some common unsubscribe links below. This way, you can quickly manage your email preferences as soon as you register.
 
 - https://www.ieee.org/ieee-privacyportal/app/ibp
+- https://www.ieee.org/profile/tips/getTipsInfo.html
 - https://innovate.ieee.org/unsubscribe/
 - https://forms1.ieee.org/unsubscribe.html?mkt_unsubscribe=1
 - https://www.naylornetwork.com/ie00-blank/confirm.asp?email=youremail@address.com&mid=648901
