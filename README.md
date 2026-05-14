@@ -13,6 +13,7 @@ IEEE can be a bit [notorious](https://www.reddit.com/r/ECE/comments/38y14i/ieees
 - https://engage.ieee.org
   - https://engage.ieee.org/MOVE-Newsletter-Unsubscribe-Page.html
   - https://engage.ieee.org/HKN-Bridge-Unsubscribe.html
+  - https://engage.ieee.org/HKN-News-Unsubscribe.html
   - https://engage.ieee.org/MBB-Unsubscribe.html
   - https://engage.ieee.org/Awards-Updates-Unsubscribe.html
   - https://engage.ieee.org/Awards-Booklet-Unsubscribe.html
